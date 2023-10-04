@@ -2,7 +2,7 @@ import discord
 
 
 def get_token():
-    return "MTA1NzcyMjAzMTAyNzc5ODEzNg.G7ZIRc.zWuCosDg7iphLKh-B74QKBD1uiDrOSqCoTXsTo"
+    return "YOUR DISCORD TOKEN HERE"
 
 
 def get_db():
@@ -19,7 +19,6 @@ def get_settings():
 
 def get_active_guilds():
     guilds = [
-        discord.Object(id=1026245961623806103),
-        #discord.Object(id=1089680525737861130)
+        discord.Object(id=1026245961623806103), # Your guilds here
     ]
     return guilds
