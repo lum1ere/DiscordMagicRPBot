@@ -19,6 +19,6 @@ def get_settings():
 
 def get_active_guilds():
     guilds = [
-        # discord.Object(id=1026245961623806103), # Your guilds here
+        discord.Object(id=1026245961623806103), # Your guilds here
     ]
     return guilds
